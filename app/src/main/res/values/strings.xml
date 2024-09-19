@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vitall Foods</string>  <!-- Asegúrate de que este nombre corresponde al nombre de tu aplicación. -->
+    <string name="credit_card_image">Imagen de tarjeta de crédito</string>
+    <string name="card_number">Número de la tarjeta</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="expiration">Expiración</string>
+    <string name="cvv">CVV</string>
+    <string name="save">Guardar</string>
+</resources>
